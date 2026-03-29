@@ -1,2 +1,13 @@
-# Sleep-Screen-Stress-Analysis
-Analysis of screen time, sleep, and stress using Python &amp; Pandas
+# Sleep, Screen Time & Stress Analysis
+
+## 📊 Overview
+This project analyzes how screen time and sleep affect stress levels.
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+
+## 🔍 Key Insights
+- Higher screen time → Higher stress
+- Less sleep → More stress
+- Occupation affects screen usage
